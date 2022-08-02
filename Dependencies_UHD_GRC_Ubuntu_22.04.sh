@@ -3,4 +3,4 @@ sudo apt install autoconf automake build-essential ccache cmake cpufrequtils dox
 pip install pygccxml
 pip install pyqtgraph
 cd ../
-sudo rm -rf dependencies
+sudo rm -rf Dependencies
